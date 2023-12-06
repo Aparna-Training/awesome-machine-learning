@@ -1,5 +1,5 @@
 The following is a list of free or paid online courses on machine learning, statistics, data-mining, etc.
-
+## changing courses file
 ## Machine-Learning / Data Mining
 
 * [Artificial Intelligence (Columbia University)](https://www.edx.org/course/artificial-intelligence-ai-columbiax-csmm-101x-0) - free
